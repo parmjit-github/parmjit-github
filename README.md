@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm ParmjiT
 
-Aspiring Data Enginner & Network Engineer
+Aspiring Data Analyst & Cloud Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://parmjit-portfolio.vercel.app/)                                                 
-- 🌱 I’m currently learning React.js & DSA
-- ⚡ Fun fact: I know Japanese
+- 🌱 I’m currently learning Java & AWS
+- ⚡ Fun fact: I know German
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/parmjit-r-78222929a/)
 
